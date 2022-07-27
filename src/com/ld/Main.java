@@ -1,4 +1,4 @@
-package com.company;
+package com.ld;
 
 public class Main {
 
