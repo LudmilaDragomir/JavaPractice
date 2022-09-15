@@ -1,4 +1,4 @@
-package com.ld;
+package com.reader;
 
 public class Main {
 
